@@ -1,14 +1,14 @@
 {
-  "name": "IZUKU-Md by excel ",
+  "name": "THARINDU-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "THARINDU-MD", "Secktor","THARINDU-MD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Izuku Midoriya"
+      "value": "Tnarindu Supun"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg"
+     "value": "https://telegra.ph/file/9904c934b7fab6d0d0105.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -54,7 +54,7 @@
      "value": "true"
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:2347039570336",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94762175364",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -72,7 +72,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "2347039570336"
+       "value": "94762175364"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
@@ -88,11 +88,11 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "IZUKU"
+     "value": "THARINDU"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-         "value": "private"
+         "value": "public"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "izuku;midoriya",
+     "value": "tharindusupun;Tharindu",
      "required": false 
   },
   "heroku": {
