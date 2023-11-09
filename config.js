@@ -7,7 +7,7 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
-global.github = 'https://github.com/excelottah6/IZUKU-MD'
+global.github = 'https://github.com/tharindusupun/THARINDU-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '2347039570336,923466319114'
@@ -15,12 +15,12 @@ global.devs = '2347039570336';
 global.website = 'https://github.com/excelottah6/IZUKU-Md' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'IZUKU 𝐁𝐨𝐭' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'Tharindu 𝐁𝐨𝐭' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'excel' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'excel' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'IZUKU-Md' : process.env.PACK_INFO.split(";")[1],
+  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '✰𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐌𝐃✰' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
@@ -44,8 +44,8 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'IZUKU',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
+  LANG: process.env.THEME|| 'THARINDU',
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
 
