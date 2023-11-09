@@ -1,10 +1,5 @@
 /**
-██╗███████╗██╗   ██╗██╗  ██╗██╗   ██╗    ███╗   ███╗██████╗ 
-██║╚══███╔╝██║   ██║██║ ██╔╝██║   ██║    ████╗ ████║██╔══██╗
-██║  ███╔╝ ██║   ██║█████╔╝ ██║   ██║    ██╔████╔██║██║  ██║
-██║ ███╔╝  ██║   ██║██╔═██╗ ██║   ██║    ██║╚██╔╝██║██║  ██║
-██║███████╗╚██████╔╝██║  ██╗╚██████╔╝    ██║ ╚═╝ ██║██████╔╝
-╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚═════╝ 
+
                                                             
  Copyright (C) 2022.
  Licensed under the  GPL-3.0 License;
@@ -31,7 +26,8 @@ const _0x55b1d0=_0x450b;function _0x3e06(){const _0x4fd649=['「★」','countDo
 Secktor.cmd({
             pattern: "list",
             desc: "list menu",
-            category: "general"
+            category: "general",
+            react: "✅",
         },
         async(Void, citel) => {
             const { commands } = require('../lib');
