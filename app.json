@@ -1,7 +1,7 @@
 {
   "name": "THARINDU-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://telegra.ph/file/eac54cb449db608ccaa44.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "THARINDU-MD", "Secktor","THARINDU-MD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/9904c934b7fab6d0d0105.jpg"
+     "value": "https://telegra.ph/file/eac54cb449db608ccaa44.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
