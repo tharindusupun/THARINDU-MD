@@ -1,15 +1,15 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL">
-    <img alt=Support height="400" src="https://telegra.ph/file/be4fad9b026c96936cbfe.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/eac54cb449db608ccaa44.jpg"> 
     </p>
-<h1 align="center"> 𝙸𝚉𝚄𝙺𝚄-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
+<h1 align="center"> 𝚃𝙷𝙰𝚁𝙸𝙽𝙳𝚄-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
 </h1>
 <p align="center"> 
  ! ᴵ ᴬᵐ ᴬ ᵂʰᵃᵗˢᵃᵖᵖ ᴮᵒᵗ ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ˢᵃᵐ ᵖᵃⁿᵈᵉʸ ᵃⁿᵈ ʳᵉᶜᵒᵈᵉᵈ ᵇʸ ᴱˣᶜᴱᴸ  ᵀᵒ ᴰᵒ ᴱᵛᵉʳʸᵗʰⁱⁿᵍ ᵀʰᵃᵗ ᴵˢ ᴾᵒˢˢⁱᵇˡᵉ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴮᵃˢᵉᵈ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴹᵘˡᵗⁱ ᴰᵉᵛⁱᶜᵉ⁽ᴹᴰ⁾ ˢᵘᵖᵖᵒʳᵗ.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝙸𝚉𝚄𝙺𝚄-𝙼𝙳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; ...;TEAM 𝙸𝚉𝚄𝙺𝚄-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝚃𝙷𝙰𝚁𝙸𝙽𝙳𝚄-𝙼𝙳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; ...;TEAM 𝚃𝙷𝙰𝚁𝙸𝙽𝙳𝚄-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -17,7 +17,7 @@
 
 <p align="right">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/excelottah6/IZUKU-MD" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/excelottah6/THARINDU-MD" />
   </a>
   
   
@@ -25,8 +25,8 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ IZUKU Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+ <a href="https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Tharindu Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@Excelottah/BLACK-Md) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/excelottah6/IZUKU-MD/fork)***
+2. ***Click [FORK](https://github.com/tharindusupun/THARINDU-MD/fork)***
  
 ---
 
@@ -53,7 +53,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/excelottah6/IZUKU-MD">
+    <a href="https://github.com/tharindusupun/THARINDU-MD">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -96,7 +96,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/excelottah6/IZUKU-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/tharindusupun/THARINDU-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
