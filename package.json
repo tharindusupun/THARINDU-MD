@@ -1,5 +1,5 @@
 {
-  "name": "THARINDU-MD",
+  "name": "𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐌𝐃",
   "version": "0.0.7",
   "description": "Multi device whatsapp bot by THARINDU-MD.",
   "main": "lib/client.js",
@@ -7,7 +7,7 @@
   "license": "GPL-3.0",
   "scripts": {
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name THARINDU-MD",
-    "stop": "pm2 stop THARINDU-MD"
+    "stop": "pm2 stop 𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐌𝐃"
   },
   "author": "tharindusupun",
   "dependencies": {
