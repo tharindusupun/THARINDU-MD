@@ -13,21 +13,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐓𝐇𝐈𝐒 𝐈𝐒+𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐌𝐃;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY=𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐒𝐔𝐏𝐔𝐍;PUBLIC+RELESED; ...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 ➤ 𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐒𝐔𝐏𝐔𝐍." alt="Typing SVG" /></a>
   </p>
   <br>
-</p>
-
-<p align="right">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/excelottah6/THARINDU-MD" />
-  </a>
-  
-  
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Tharindu Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/E5hQFLAF5WQEqqVSDHMowv" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/E5hQFLAF5WQEqqVSDHMowv](https://wa.me/94762175364?text=.menu)" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
 </p>
 
 ---
