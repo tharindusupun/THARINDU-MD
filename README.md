@@ -65,13 +65,8 @@
 # THIS TIME  DEPLOY 
 # ```Deployments METHODS```
 
- <details close>
-<summary>Click to choose your favourite platform to Deploy</summary>
- 
-<br><br>   
- 
-   
-<h4 align="center">⨷ Deploy on Repl.it
+    
+<h4 align="center">⨷ Deploy on Repl.it 👇
 </h4>
 
 <p align="center" >
@@ -79,7 +74,7 @@
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 
-<h4 align="center">⨷ Deploy on CodesSpace
+<h4 align="center">⨷ Deploy on CodesSpace 👇
 </h4>
 
 </p>
@@ -89,7 +84,7 @@
     <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
     </a>
 
-<h4 align="center">⨷ Deploy on Heroku
+<h4 align="center">⨷ Deploy on Heroku 👇
 </h4>
 
 </p>
@@ -98,7 +93,7 @@
     <a href="https://heroku.com/deploy?template=https://github.com/tharindusupun/THARINDU-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
-<h4 align="center">⨷ Deploy on RailWay
+<h4 align="center">⨷ Deploy on RailWay 👇
 </h4>
   
 <p align="center">
@@ -106,7 +101,7 @@
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
     
-<h4 align="center">⨷ Deploy on Mogenius
+<h4 align="center">⨷ Deploy on Mogenius 👇
 </h4>
   
 <p align="center">
@@ -115,8 +110,8 @@
     </a>
     
 
-<h4 align="center">⨷ Deploy on Uffizzi
-</h4>
+<h4 align="center">⨷ Deploy on Uffizzi 👇
+</h4> 
   
 <p align="center">
     <a href="https://www.uffizzi.com/">
@@ -124,7 +119,7 @@
     </a>
     
 </p>
-<h4 align="center">⨷ Deploy on BoxMineWorld
+<h4 align="center">⨷ Deploy on BoxMineWorld 👇
 </h4>
   
 <p align="center">
@@ -132,10 +127,7 @@
     <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
     </a>
     <br>
-
-
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </details>
 
 <br>
