@@ -49,15 +49,21 @@
 **[SCAN QR-CODE-SERVER-2](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
 
 **[SCAN QR-CODE-SERVER-3](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ```Fork Repo```
  ***Click [FORK](https://github.com/tharindusupun/THARINDU-MD/fork)***
+
+ 
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## `⨷ MONGO DB URL GET`
 
  ***Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
 ***Mongodb uri from [railway.app](https://railway.app).***
+
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # THIS TIME  DEPLOY 
 # ```Deployments METHODS```
