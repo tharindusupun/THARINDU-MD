@@ -131,3 +131,14 @@
 </details>
 
 <br>
+## <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝙃𝙊𝙒+𝘾𝘼𝙉+𝙃𝙀𝙇𝙋+𝙔𝙊𝙐  👩‍🔧" alt="">
+</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=THE+BEST+WHATSAPP+BOT" alt="Typing SVG" /></a>
+
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MULITE+DIVICE+WHATSAPP+BOT+NEW+2023" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY=𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂+" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NUMBER=94762175364" alt="Typing SVG" /></a>
