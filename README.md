@@ -1,4 +1,10 @@
 </p>
+<h1 align="center"> ꧁ ..𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝐁𝐎𝐓.. ꧂
+
+
+❀𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂❀
+</h1>
+</p>
 <p align="center">
   <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL">
     <img alt=Support height="400" src="https://telegra.ph/file/eac54cb449db608ccaa44.jpg"> 
