@@ -142,3 +142,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY=𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂+" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NUMBER=94762175364" alt="Typing SVG" /></a>
+
+
+  ## [☰☘️ 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️☰]
+
+  <a href="https://gamma.app/public/--3pd4pz1uefmx7hm"><img src="https://telegra.ph/file/928e7e60cc557ca320dff.jpg" width=120 height=120></a>   
+
+|**[`𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂`](https://gamma.app/public/-gznddi1k46y4gzf)**|
