@@ -40,15 +40,25 @@
 <p align="center">
 
 ---
-# ```Scan QR Code```
+## `⨷ SCAN QR`
 
-1. ***Get [SESSION-ID](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
---- 
+ To use This bot you need to scan the qr code<br>
+
+**[SCAN QR-CODE-SERVER-1](https://gamma.app/public/-gznddi1k46y4gzf)**
+
+**[SCAN QR-CODE-SERVER-2](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
+
+**[SCAN QR-CODE-SERVER-3](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/tharindusupun/THARINDU-MD/fork)***
- 
----
+ ***Click [FORK](https://github.com/tharindusupun/THARINDU-MD/fork)***
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## `⨷ MONGO DB URL GET`
 
+ ***Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
+
+***Mongodb uri from [railway.app](https://railway.app).***
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # THIS TIME  DEPLOY 
 # ```Deployments METHODS```
 
