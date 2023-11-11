@@ -50,19 +50,16 @@
 
 **[SCAN QR-CODE-SERVER-3](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
 
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ```Fork Repo```
  ***Click [FORK](https://github.com/tharindusupun/THARINDU-MD/fork)***
 
- 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## `⨷ MONGO DB URL GET`
 
  ***Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
 ***Mongodb uri from [railway.app](https://railway.app).***
-
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # THIS TIME  DEPLOY 
@@ -74,26 +71,15 @@
 <br><br>   
  
    
-<h4 align="center"> Deploy on Repl.it
+<h4 align="center">⨷ Deploy on Repl.it
 </h4>
 
 <p align="center" >
     <a href="https://github.com/tharindusupun/THARINDU-MD">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
-</p>
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-<br>
- 
-<h4 align="center"> Deploy on CodesSpace
+<h4 align="center">⨷ Deploy on CodesSpace
 </h4>
 
 </p>
@@ -103,19 +89,7 @@
     <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=red&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
     </a>
 
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-<br>
- 
-<h4 align="center"> Deploy on Heroku
+<h4 align="center">⨷ Deploy on Heroku
 </h4>
 
 </p>
@@ -124,21 +98,7 @@
     <a href="https://heroku.com/deploy?template=https://github.com/tharindusupun/THARINDU-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
-
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-
-
-<br>
-
-
-<h4 align="center"> Deploy on RailWay
+<h4 align="center">⨷ Deploy on RailWay
 </h4>
   
 <p align="center">
@@ -146,20 +106,7 @@
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
     
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-
-</p>
-
-
-
-<br>
-
-<h4 align="center"> Deploy on Mogenius
+<h4 align="center">⨷ Deploy on Mogenius
 </h4>
   
 <p align="center">
@@ -167,17 +114,8 @@
     <img src="https://www.cloudflare.com/static/90073b1e5bd8a0765640a20febb3dc22/mogenius_logo_quer.png" alt="Deploy on Mogenius" width="170px">
     </a>
     
-</p>
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<br>
-
-<h4 align="center"> Deploy on Uffizzi
+<h4 align="center">⨷ Deploy on Uffizzi
 </h4>
   
 <p align="center">
@@ -186,10 +124,7 @@
     </a>
     
 </p>
-
-<br>
-
-<h4 align="center"> Deploy on BoxMineWorld
+<h4 align="center">⨷ Deploy on BoxMineWorld
 </h4>
   
 <p align="center">
@@ -198,13 +133,6 @@
     </a>
     <br>
 
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
 
 
 
