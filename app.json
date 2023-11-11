@@ -56,7 +56,7 @@
     "SUDO": {
     "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94762175364",
      "required"  :false
-     "value": "94762175364"
+     
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
