@@ -14,8 +14,8 @@ const { mediafire } = require("../lib/mediafire.js");
 const googleTTS = require("google-tts-api");
 const ytdl = require('ytdl-secktor')
 const fs = require('fs')
-var videotime = 6000000 // 1000000min
-var dlsize = 1700 // 1700mb
+var videotime = 60000000 // 1000000min
+var dlsize = 17000 // 1700mb
     //---------------------------------------------------------------------------
 cmd({
             pattern: "tgs",
@@ -443,7 +443,7 @@ cmd({
                         jpegThumbnail: log0,
                         mimetype: 'video/mp4',
                         fileName: `${titleYt}.mp4`,
-                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ*`,
+                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ —͟͞ 𝙏𝙃𝘼𝙍𝙄𝙉𝘿𝙐 ͢ ͢𝙎𝙐𝙋𝙐𝙉 🇱🇰*`,
                         headerType: 4,
                     }
                     return Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
@@ -508,7 +508,7 @@ cmd({
                         jpegThumbnail: log0,
                         mimetype: 'audio/mp4',
                         fileName: `${titleYt}.mp4`,
-                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ*`,
+                        caption: `● *ᴘᴏᴡᴇʀᴇᴅ ʙʏ —͟͞ 𝙏𝙃𝘼𝙍𝙄𝙉𝘿𝙐 ͢ ͢𝙎𝙐𝙋𝙐𝙉 🇱🇰*`,
                         headerType: 4,
                     }
                     return Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
