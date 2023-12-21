@@ -47,7 +47,7 @@ description: ' '
 
 ⦁ *RUNNING TIME :* ${runtime(process.uptime())}
 
-⦁ *MADE BY PRABATH* ✅.
+⦁ *MADE BY THARINDU* ✅.
  
 ⦁ *Use it to download YouTube videos, songs easily* 🪄
 
