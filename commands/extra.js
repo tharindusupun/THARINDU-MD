@@ -1,35 +1,78 @@
-/*
- *
- ██╗███████╗██╗   ██╗██╗  ██╗██╗   ██╗    ███╗   ███╗██████╗ 
-██║╚══███╔╝██║   ██║██║ ██╔╝██║   ██║    ████╗ ████║██╔══██╗
-██║  ███╔╝ ██║   ██║█████╔╝ ██║   ██║    ██╔████╔██║██║  ██║
-██║ ███╔╝  ██║   ██║██╔═██╗ ██║   ██║    ██║╚██╔╝██║██║  ██║
-██║███████╗╚██████╔╝██║  ██╗╚██████╔╝    ██║ ╚═╝ ██║██████╔╝
-╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚═════╝ 
-                                                            
- Copyright (C) 2022.
- Licensed under the  GPL-3.0 License;
- You may not use this file except in compliance with the License.
- It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
- *
- */
 
-const {cmd} = require('../lib')
-const PastebinAPI = require("pastebin-js");
-pastebin = new PastebinAPI("EMWTMkQAVfJa9kM-MRUrxd5Oku1U7pgL");
+const { fetchJson, cmd, citel, Config } = require('../lib')
+
 cmd({
-        pattern: "pastebin",
-        desc: "To check ping",
-        category: "extra",
-        filename: __filename,
-    },
-    async(Void, citel) => {
-        if(!citel.quoted) return citel.reply('Please quote any text to get link.')
-        let data = await pastebin.createPaste(citel.quoted.text, "Secktor-Pastebin")
-        citel.reply('_Here is your link._\n'+data)
-    }
-);
+            pattern: "ss",
+            desc: "web ss", 
+            react: "📸",
+            category: "downloader"
+            
+            
+        },
+        async(Void, citel, text) => {
+            if (!text) return
+const webss = await fetchJson(`https://api.botcahx.biz.id/api/tools/ssweb?link=${text}&apikey=${Config.botapikey}`)
+            citel.reply (`*Screenshot is taking, please wait...*`)
+       Void.sendMessage(citel.chat, {
+                image: {
+                    url: `https://api.botcahx.biz.id/api/tools/ssweb?link=${text}&apikey=${Config.botapikey}` ,
+                },
+                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ`,
+            }, {
+                quoted: citel,
+            });
+ }
+)
+
+
+
+cmd({
+
+            pattern: "fb",
+            desc: "fb down",
+            react: "📥",
+            category: "downloader"
+        },
+        async(Void, citel, text) => {
+            if (!text) return
+const fbdl = await fetchJson(`https://api.botcahx.biz.id/api/dowloader/fbdown?url=${text}&apikey=${Config.botapikey}`)
+const videolink = fbdl.result.HD
+            citel.reply (`*Finding Your Facebook Video* 🌐📡`);
+       Void.sendMessage(citel.chat, {
+                video: {
+                    url: videolink ,
+                },
+                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ`,
+                footer: `tlang().footer`,
+            }, {
+                quoted: citel,
+            });
+ }
+)
+
+
+
+cmd({
+            pattern: "tt",
+            alias: ["tiktok"],
+            desc: "tiktok downloader",
+            react:"🚀",
+            category: "downloader"
+        },
+        async(Void, citel, text) => {
+            if (!text) return
+const ttdl = await fetchJson(`https://api.botcahx.biz.id/api/dowloader/tikok?url=${text}&apikey=${Config.botapikey}`)
+    
+const videolink = ttdl.result.video2
+            citel.reply (`*Finding Your Tiktok Video* 🌐📡`);
+       Void.sendMessage(citel.chat, {
+                video: {
+                    url: videolink ,
+                },
+                
+                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ`,
+            }, {
+                quoted: citel,
+            });
+ }
+)
