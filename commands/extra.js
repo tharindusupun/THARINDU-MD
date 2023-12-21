@@ -17,7 +17,7 @@ const webss = await fetchJson(`https://api.botcahx.biz.id/api/tools/ssweb?link=$
                 image: {
                     url: `https://api.botcahx.biz.id/api/tools/ssweb?link=${text}&apikey=${Config.botapikey}` ,
                 },
-                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ`,
+                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ —͟͞ 𝙏𝙃𝘼𝙍𝙄𝙉𝘿𝙐 ͢ ͢𝙎𝙐𝙋𝙐𝙉 🇱🇰`,
             }, {
                 quoted: citel,
             });
@@ -42,7 +42,7 @@ const videolink = fbdl.result.HD
                 video: {
                     url: videolink ,
                 },
-                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ`,
+                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ —͟͞ 𝙏𝙃𝘼𝙍𝙄𝙉𝘿𝙐 ͢ ͢𝙎𝙐𝙋𝙐𝙉 🇱🇰`,
                 footer: `tlang().footer`,
             }, {
                 quoted: citel,
@@ -70,7 +70,7 @@ const videolink = ttdl.result.video2
                     url: videolink ,
                 },
                 
-                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ ᴘʀᴀʙᴀᴛʜ-ᴍᴅ`,
+                caption: `● ᴘᴏᴡᴇʀᴅ ʙʏ —͟͞ 𝙏𝙃𝘼𝙍𝙄𝙉𝘿𝙐 ͢ ͢𝙎𝙐𝙋𝙐𝙉 🇱🇰`,
             }, {
                 quoted: citel,
             });
