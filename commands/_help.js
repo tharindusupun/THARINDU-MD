@@ -11,7 +11,7 @@ const Secktor = require('../lib/commands')
 
     //---------------------------------------------------------------------------
 Secktor.cmd({
-              pattern: "list",
+              pattern: "menu",
               desc: "list menu",
               category: "general",
               react: "🥀"
@@ -21,12 +21,12 @@ Secktor.cmd({
               const { commands } = require('../lib');
               text = `
   ╭━━〘 *${Config.botname}* 〙────⊷     
-  ┃ ✭ Theme: ${tlang().title}
-  ┃ ✭ Prefix: ${prefix}
-  ┃ ✭ Owner: ${Config.ownername}
-  ┃ ✭ Commands: ${commands.length}
-  ┃ ✭ Uptime: ${runtime(process.uptime())}
-  ┃ ✭ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+  ┃ 🚀 Theme: ${tlang().title}
+  ┃ 📍 Prefix: ${prefix}
+  ┃ 👤 Owner: ${Config.ownername}
+  ┃ 🛑 Commands: ${commands.length}
+  ┃ 🕧 Uptime: ${runtime(process.uptime())}
+  ┃ ⌛ Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
   ╰━━━━━━━━━━━━━━⊷\n`
   text = '';
               for (let i = 0; i < commands.length; i++){if(commands[i].pattern==undefined){ continue; }else { text += `*${i+1} ${fancytext(commands[i].pattern,1)}*\n  ${fancytext(commands[i].desc,1)}\n`}}
